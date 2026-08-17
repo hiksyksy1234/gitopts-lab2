@@ -9,4 +9,4 @@ resources:
 images:
 - name: hiksyksyksy/hello-app
   newName: hiksyksyksy/hello-app
-  newTag: 8f5af6c
+  newTag: b44bb10
